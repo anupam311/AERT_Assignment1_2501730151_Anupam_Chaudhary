@@ -1,0 +1,29 @@
+=== Part A: Stack ADT ===
+Stack size: 3
+Top element: 30
+Pop: 30
+Is empty? False
+
+=== Part B: Factorial & Fibonacci ===
+Factorial(5): 120
+Naive Fibonacci(6): 8 Calls: 25
+Memoized Fibonacci(6): 8 Calls: 11
+
+=== Part C: Tower of Hanoi (3 disks) ===
+Move disk 1 from A to C
+Move disk 2 from A to B
+Move disk 1 from C to B
+Move disk 3 from A to C
+Move disk 1 from B to A
+Move disk 2 from B to C
+Move disk 1 from A to C
+
+=== Part D: Binary Search ===
+Key : 7 : found at index : 3
+Key : 4 : no found.
+
+=== Part A Task: Binary Search Trace with Stack ===
+Key : 9 : found at index : 4
+Mid indices visited (from stack):
+4
+2
